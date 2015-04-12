@@ -6,7 +6,7 @@ category: essay
 tags: [resume]
 ---
 
-各位未来可能的雇主您好，我叫肖振良，现在作为一名Linux SA和以Python PHP为主要开发语言的半个程序员在三五互联工作,您也可以访问[英文版 English Version](/resume/)。
+各位未来可能的雇主您好，我叫肖振良，现在作为一名高级架构运维工程师和以Python PHP为主要开发语言的半个程序员在华云数据工作,您也可以访问[英文版 English Version](/resume/)。
 
 <img src="/assets/images/jsm.png" style="float:right">
 ## 学历 ##
@@ -83,6 +83,9 @@ tags: [resume]
 **三五互联**
 
 * Linux SA
+
+**华云数据**
+
 * Growing...
 
 ## 技能 ##

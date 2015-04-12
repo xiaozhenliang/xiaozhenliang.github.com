@@ -6,7 +6,7 @@ category: essay
 tags: [resume]
 ---
 
-My name is Johnlen Shaw (Also spelled as Xiao Zhenliang and 肖振良), I am currently working at 35.COM,as a Linux System Administrator and a Amateur Programmer,coding by Python and PHP.You can also access the [Simplified Chinese Version 简体中文版](/resumecn/).
+My name is Johnlen Shaw (Also spelled as Xiao Zhenliang and 肖振良), I am currently working at Chinac.com,as a Senior Architecture Operation Engineers and a Amateur Programmer,coding by Python and PHP.You can also access the [Simplified Chinese Version 简体中文版](/resumecn/).
 
 <img src="/assets/images/jsm.png" style="float:right">
 ## Education ##
@@ -84,7 +84,10 @@ My name is Johnlen Shaw (Also spelled as Xiao Zhenliang and 肖振良), I am cur
 **35.COM**
 
 * As a Linux System Administrator
-* Growing...
+
+**Chinac.COM**
+
+* Working
 
 ## Technical Skills ##
 **Skilled:**
