@@ -13,7 +13,7 @@ tags: ["Mysql"]
 前两个方法需要获取到Mysql数据库实例中所有InnoDB的清单，如果你使用的是5.0以上的版本，这一切都很容易：SELECT `TABLE_SCHEMA`,`TABLE_NAME` FROM TABLES WHERE ENGINE = 'InnoDB';
 
 
-##修改表引擎
+## 修改表引擎
 
 1. 对每个InnoDB表执行 ALTER TABLE `table_name` ENGINE=MyISAM;
 2. 停止Mysql服务；
@@ -23,7 +23,7 @@ tags: ["Mysql"]
 6. 将刚才修改后的那些表改回InnoDB：ALTER TABLE `table_name` ENGINE=InnoDB；
 
 
-##导出InnoDB表
+## 导出InnoDB表
 
 1. 使用mysqldump命令导出所有的InnoDB表，例如:
 mysqldump --add-drop-table --extended-insert --disable-keys --quick 'db_name' --tables 'tbl_name' > 'db_name.tbl_name.sql'
@@ -45,7 +45,7 @@ mysqldump --add-drop-table --extended-insert --disable-keys --quick 'db_name' --
 	* SET FOREIGN_KEY_CHECKS=1;
 
 
-##导出整个数据库
+## 导出整个数据库
 
 这个是我常用的，虽然他和耗磁盘和时间，但是确实是最简便的：
 

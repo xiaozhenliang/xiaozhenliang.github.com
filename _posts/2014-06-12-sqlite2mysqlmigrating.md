@@ -8,7 +8,7 @@ tags: ["Python"]
 
 SQLITE2MySQL迁移程序
 
-##A sqlite-mysql migrating tool in Python:
+## A sqlite-mysql migrating tool in Python:
 
 <pre>
 #! /usr/bin/env python

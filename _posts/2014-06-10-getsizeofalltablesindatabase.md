@@ -10,7 +10,7 @@ tags: ["Mysql"]
 
 时有需求需要计算每个表占用的空间大小，如果有GUI可以直接点开查看属性，如果是成百上千个表又木有GUI中么办...
 
-##MySQL:
+## MySQL:
 
 <pre>
 SELECT table_name AS "Table", 
@@ -20,7 +20,7 @@ WHERE table_schema = "$DB_NAME"
  AND table_name = "$TABLE_NAME";
 </pre>
 
-##MSSQL:
+## MSSQL:
 
 <pre>
 SELECT 
