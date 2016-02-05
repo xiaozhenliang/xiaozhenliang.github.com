@@ -9,6 +9,7 @@ tags: [resume]
 各位未来可能的雇主您好，我叫肖振良，现在作为一名高级架构运维工程师和以Python PHP为主要开发语言的半个程序员在华云数据工作,您也可以访问[英文版 English Version](/resume/)。
 
 <img src="/assets/images/jsm.png" style="float:right">
+
 ## 学历 ##
 **佳木斯大学**
 
@@ -66,6 +67,7 @@ tags: [resume]
 * 高度优化wordpress，埋了不少wp的坑，部分缓存功能为自己开发
 * 通过XML-RPC自动发布文章，定时定量触发索引
 * 独立的全文索引查询系统
+
 ## 研究 ##
 **Solo:简单高效的PHP框架**
 

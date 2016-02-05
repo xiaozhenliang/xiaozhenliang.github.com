@@ -68,6 +68,7 @@ My name is Johnlen Shaw (Also spelled as Xiao Zhenliang and 肖振良), I am cur
 * Highly optimized Wordpress, Using a custom cache.
 * Push a new post by XMLRPC,Update the indexes of search timely
 * Independent site full-text search engine
+
 ## Research ##
 **Solo:A Fast and Simple PHP Framework**
 
