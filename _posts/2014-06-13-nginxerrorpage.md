@@ -8,7 +8,7 @@ tags: ["nginx"]
 
 error_page指令可以让nginx响应指定的错误页面给客户端。
 
-## #网上流传通用配置
+### 网上流传通用配置
 
 * http配置块加入：fastcgi_intercept_errors on;
 * server配置块加入: error_page 404 = /404.html;
