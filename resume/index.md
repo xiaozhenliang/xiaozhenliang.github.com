@@ -6,7 +6,7 @@ category: essay
 tags: [resume]
 ---
 
-My name is Johnlen Shaw (Also spelled as Xiao Zhenliang and 肖振良), I am currently working at Chinac.com,as a Senior Architecture Operation Engineers and a Amateur Programmer,coding by Python and PHP.You can also access the [Simplified Chinese Version 简体中文版](/resumecn/).
+My name is Johnlen Shaw (Also spelled as Xiao Zhenliang and 肖振良), I am currently working at Chinac.com,as a Senior Architecture Operation Engineers and a Amateur Programmer,coding by Python and PHP.
 
 <img src="/assets/images/jsm.png" style="float:right">
 
@@ -89,17 +89,16 @@ My name is Johnlen Shaw (Also spelled as Xiao Zhenliang and 肖振良), I am cur
 
 **Chinac.COM**
 
-* Working
+* Openstack OPS : Just include KVM MQ RDS BM
+* DevOPS
+
+**Tencent.com**
+
+* Working here now.
 
 ## Technical Skills ##
 **Skilled:**
 
-* PHP,Python,Mysql,Linux Server Administration
+* Python,PHP,Linux
 
-**Familiar:** 
 
-* Ruby,MongoDB,Nagios,LVS,Nginx,FreeBSD
-
-**Intermediate:**
-
-* Shell,Postfix
